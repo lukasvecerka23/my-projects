@@ -23,7 +23,10 @@
 - [Project](https://github.com/lukasvecerka23/ids-hw) - Database of Hotel Internal system using Oracle DB
 
 ### IPP - Principles of Programming Languages
-- [Project](https://github.com/lukasvecerka23/ipp-hw) - Parsing and interpreting XML-based program
+- [Project](https://github.com/lukasvecerka23/ipp-hw) - Parser and interpreter for XML-based programs
+
+### IZA - Programming Apple Devices
+- [Project](https://github.com/lukasvecerka23/questbuddy) - QuestBuddy, habit tracker in Swift for iOS 16.0+
 
 ## BSEC - University competition
 - [Solution](https://github.com/JosefKuchar/bsec2023) - :2nd_place_medal: place, Insulin tracker which gives prediction for people with diabetes, React + Flask

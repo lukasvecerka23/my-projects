@@ -28,6 +28,9 @@
 ### IZA - Programming Apple Devices
 - [Project](https://github.com/lukasvecerka23/questbuddy) - QuestBuddy, habit tracker in Swift for iOS 16.0+
 
+### ICS - The C# Programming Language
+- [Project](https://github.com/lukasvecerka23/ics-project) - Time tracker, MAUI + .NET Core 7
+
 ## BSEC - University competition
 - [Solution](https://github.com/JosefKuchar/bsec2023) - :2nd_place_medal: place, Insulin tracker which gives prediction for people with diabetes, React + Flask
 

@@ -31,8 +31,14 @@
 ### ICS - The C# Programming Language
 - [Project](https://github.com/lukasvecerka23/ics-project) - Time tracker, MAUI + .NET Core 7
 
+### ISA - Network Applications and Network Administration
+- [Project](https://github.com/lukasvecerka23/isa-project) - TFTP Client + Server
+
+### IIS - Information Systems
+- [Project](https://github.com/lukasvecerka23/fit-iis) - Information system for managing IoT devices (ASP.NET Core + Svelte)
+
 ## BSEC - University competition
 - [Solution](https://github.com/JosefKuchar/bsec2023) - :2nd_place_medal: place, Insulin tracker which gives prediction for people with diabetes, React + Flask
 
 ## Contributions
-- [BSPump](https://github.com/LibertyAces/BitSwanPump) - real-time stream processor for Python
+- [BitSwan](https://github.com/bitswan-space/BitSwan) - real-time stream processor for Python

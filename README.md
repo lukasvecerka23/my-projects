@@ -50,7 +50,8 @@
 - [Project](https://github.com/xnevar00/IMS_proj) - Team project which I led, model and simulations of Dolni Morava ski resort, Score - 20/20, Stack - C++
 
 ## BSEC - University competition
-- [Solution](https://github.com/JosefKuchar/bsec2023) - :2nd_place_medal: place, Insulin tracker which gives prediction for people with diabetes, Stack - React + Flask
+- [Solution 2023](https://github.com/JosefKuchar/bsec2023) - :2nd_place_medal: place, Insulin tracker which gives prediction for people with diabetes, Stack - React + Flask
+- [Solution 2024](https://github.com/JosefKuchar/bsec2024) - 🥇 place, Web application for investment portfolio modeling, Stack - SvelteKit, Typescript, TailwindCSS, PrismaORM, SkeletonUI, SQLite
 
 ## Contributions
 - [BitSwan](https://github.com/bitswan-space/BitSwan) - real-time stream processor for Python
